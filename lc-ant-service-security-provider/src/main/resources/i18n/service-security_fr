@@ -1,0 +1,2 @@
+subject type {} not allowed=le type de sujet {{1}} n'est pas autorisé
+task-clean-renewal-entities=supprime de la base de données les tokens de renouvellement expirés
